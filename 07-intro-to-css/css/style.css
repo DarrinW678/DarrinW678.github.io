@@ -1,8 +1,26 @@
 #p1 {
-    color: hotpink;
+    color: #ccccff;
 }
 
 p {
-    background-color:  rgb(0, 0, 0);
+    background-color:  black;
     color: white;
+}
+
+span {
+    font-weight: bold;
+}   
+
+#s1 {
+    color: aquamarine;
+}
+#s2 {
+    color: orange;
+}
+#s3 {
+    color: darkgoldenrod;
+}
+#s4 {
+    background-color: aliceblue;
+    color: black;
 }
