@@ -11,8 +11,8 @@
     display:inline-block;
     width: 189px;
     font-family:sans-serif;
-    margin: 24px; 
-    padding: 24px;
+    margin: 12px; 
+    padding: 10px;
     vertical-align: top;
     text-align: center;
 }
@@ -21,13 +21,16 @@
     display: inline-block;
     width: 190px;
     text-align:center;
+    margin: 60px;
+    padding: 30px;
+    vertical-align: top;
 }
 .post-it-orange {
     background-color: orange;
     display: inline-block;
-    width: 267px; ;
-    text-align: center;
-    text-decoration: underline;
+    margin: 40px;
+    padding: 12px;
+    width: 123px;
 }
 .post-it-white {
     background-color: antiquewhite;
@@ -35,13 +38,19 @@
     width: 156px;
     text-align: center;
     padding: 25px;
-    margin: 25px;
+    margin: 18px;
 }
 .post-it-yellow {
-    width: 102px;
+    width: 109px;
     background-color: rgb(224, 221, 20);
     display: inline-block;
     text-align: center;
-    padding: 25px;
-    margin: 25px;
+    padding: 12px;
+    margin: 14px;
+    vertical-align: top;
+}
+.post-it-image {
+    margin: 98px;
+    display: inline-block;
+    vertical-align: top;
 }

@@ -1,0 +1,22 @@
+div {
+    border: 2px solid firebrick;
+    margin: 24px 0px;
+    padding: 24px;
+    background-color: lavenderblush;
+}
+
+a {
+    text-decoration: none;
+    color: lavenderblush;
+    font-weight: bold;
+    background-color: firebrick;
+    padding: 10px;
+    margin: 25px;
+    display: inline-block;
+    border-radius: 25px;
+}
+#circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
