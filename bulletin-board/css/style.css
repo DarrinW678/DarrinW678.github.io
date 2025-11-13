@@ -7,10 +7,10 @@
     Good luck, and have fun!
 */
 .post-it {
-    background-color:rgb(234, 223, 17);
-    display:inline-block;
+    background-color: rgb(234, 223, 17);
+    display: inline-block;
     width: 189px;
-    font-family:sans-serif;
+    font-family: sans-serif;
     margin: 12px; 
     padding: 10px;
     vertical-align: top;
@@ -20,7 +20,7 @@
     background-color: rgb(130, 130, 228);
     display: inline-block;
     width: 190px;
-    text-align:center;
+    text-align: center;
     margin: 60px;
     padding: 30px;
     vertical-align: middle;
