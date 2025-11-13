@@ -23,7 +23,7 @@
     text-align:center;
     margin: 60px;
     padding: 30px;
-    vertical-align: top;
+    vertical-align: middle;
 }
 .post-it-orange {
     background-color: orange;
@@ -31,6 +31,7 @@
     margin: 40px;
     padding: 12px;
     width: 123px;
+    vertical-align: middle;
 }
 .post-it-white {
     background-color: antiquewhite;
@@ -39,6 +40,7 @@
     text-align: center;
     padding: 25px;
     margin: 18px;
+    vertical-align: top;
 }
 .post-it-yellow {
     width: 109px;
@@ -46,18 +48,20 @@
     display: inline-block;
     text-align: center;
     padding: 12px;
-    margin: 6px 350px;
+    margin: 6px 350px 20px;
     vertical-align: middle;
 }
 .post-it-image {
-    margin: 98px 140px;
+    margin: 98px 180px;
     display: inline-block;
+    vertical-align: middle;
 }
 .post-it-green {
     background-color: green;
-    width: 225px;
+    width: 200px;
     padding: 13px;
     text-align: center;
-    display: inline-block;
+    display: block;
     margin: 6px 12px;
+    vertical-align: top;
 }
