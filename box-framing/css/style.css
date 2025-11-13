@@ -19,7 +19,7 @@
     border-style: outset;
     width: 275px;
     margin: 6px 20px;
-    display: inline;
+    display: block;
 }
 .p4 {
     border: 4px ridge violet;
