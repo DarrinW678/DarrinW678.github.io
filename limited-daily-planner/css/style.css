@@ -1,0 +1,40 @@
+.btn {
+    display: inline-block;
+    background-color: rgb(187, 255, 127);
+    padding: 5px 15px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: black;
+    margin: 2px 100px;
+    border-color: black;
+}
+#morning {
+    background-color: blueviolet;
+    padding: 5px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.completed {
+    text-decoration: line-through;
+}
+.important {
+    font-weight: bold;
+    color: greenyellow;
+}
+#afternoon {
+    background-color: rgb(55, 88, 207);
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+}
+#evening {
+    background-color: rgb(255, 170, 0);
+    border-radius: 10px;
+    margin: 10px;
+    padding: 5px;
+}
+.completed.important {
+    background-color: rgb(90, 51, 108);
+    padding: 5px 15px;
+    margin: 5px;
+}
