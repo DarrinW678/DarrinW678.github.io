@@ -1,0 +1,33 @@
+.single-column {
+    background-color: #76b041;
+    text-align: center;
+    padding: 20px;
+    color: white;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+}
+.light-container {
+    background-color: #f7931e;
+    margin: 25px 0px;
+    
+
+}
+.btn {
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    border: 5px solid #f7931e;
+    background-color: #f7931e;
+    border-radius: 10px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+h1 {
+    font-family: "Nunito", sans-serif;
+}
+body {
+    font-family: "Open Sans", sans-serif;
+}
+.dark-container.single-column {
+    background-color: blue;
+}
