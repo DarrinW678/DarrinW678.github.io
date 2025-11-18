@@ -24,10 +24,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 h1 {
     font-family: "Nunito", sans-serif;
+    text-align: center;
 }
 body {
     font-family: "Open Sans", sans-serif;
 }
-.dark-container.single-column {
-    background-color: blue;
+.dark-container {
+    background-color: #f4db50;
+    margin: 25px 0px;
+}
+img {
+    width: 150px;
+}
+p i {
+    font-size: 10px;
+    text-align: center;
+}
+.btn border {
+    background-color: #f7931e;
 }
