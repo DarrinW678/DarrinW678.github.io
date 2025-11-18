@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+img {
+    width: 375px;
+    margin: 50px;
+    padding: 10px;
+}
+.single-column {
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+    min-width: 500px;
+    max-width: 900px;
+    background-color: #ffd7c1;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+i {
+    margin: 5px;
+}
+h6 {
+    margin: 5px;
+}
