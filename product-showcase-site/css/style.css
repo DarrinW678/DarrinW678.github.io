@@ -10,7 +10,6 @@
 }
 .light-container {
     background-color: #76b041;
-    margin: 48px 0px;
     padding: 10px;
 }
 .btn {
@@ -33,7 +32,6 @@ body {
 }
 .dark-container {
     background-color: #f4db50;
-    margin: 48px 0px;
 }
 img {
     width: 165px;
@@ -49,7 +47,6 @@ p i {
 }
 .container {
     background-color: rgb(23, 20, 50);
-    margin: 48px 0px;
     padding: 20px;
 }
 .button {
