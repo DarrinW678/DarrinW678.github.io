@@ -1,17 +1,16 @@
 .single-column {
-    background-color: #76b041;
     text-align: center;
     padding: 20px;
     color: white;
     margin-right: auto;
     margin-left: auto;
     width: 50%;
+    min-width: 500px;
+    max-width: 900px;
 }
 .light-container {
-    background-color: #f7931e;
-    margin: 25px 0px;
-    
-
+    background-color: #76b041;
+    margin: 48px 0px;
 }
 .btn {
     text-decoration: none;
@@ -25,20 +24,36 @@
 h1 {
     font-family: "Nunito", sans-serif;
     text-align: center;
+    font-size: 50px;
 }
 body {
     font-family: "Open Sans", sans-serif;
+    margin: 0px;
 }
 .dark-container {
     background-color: #f4db50;
-    margin: 25px 0px;
+    margin: 48px 0px;
 }
 img {
-    width: 150px;
+    width: 165px;
 }
 p i {
-    font-size: 10px;
+    font-size: 15px;
 }
 .btn border {
     background-color: #f7931e;
+}
+* {
+    box-sizing: border-box;
+}
+.container {
+    background-color: rgb(74, 62, 185);
+    margin: 48px 0px;
+}
+.button {
+    text-decoration: none;
+    border: 5px solid #f7931e;
+    border-radius: 10px;
+    background-color: #f7931e;
+    color: white;
 }
