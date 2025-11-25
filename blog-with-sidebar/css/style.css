@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+img {
+    width: 410px;
+    margin: 65px auto;
+    display: block;
+    
+}
+.single-column {
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+    min-width: 500px;
+    max-width: 900px;
+    background-color: #ffd7c1;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+i {
+    margin: 5px;
+}
+h6 {
+    margin: 5px;
+}
+.two-col {
+    display: flex;
+    width: 90vw;
+    justify-content: center;
+}
+#sidebar {
+    flex: 1;
+    order: 2;
+}

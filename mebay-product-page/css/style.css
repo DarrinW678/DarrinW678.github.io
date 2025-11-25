@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+#thumbnail-column img {
+    display: flex;
+    margin: 10px;
+    width: 80px;
+    max-width: 120px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: grey;
+}
+#featured-image-column img {
+    width: 600px;
+    margin: 25px auto 40px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}

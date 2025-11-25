@@ -1,0 +1,37 @@
+img {
+    object-fit: cover;
+    width: 350px;
+    min-width: 100px;
+    max-width: 600px;
+    margin: 20px;
+}
+
+.single-column {
+    width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+    margin: 10px 30px;
+}
+
+span b {
+    margin: 8px 0px;
+    padding:5px ;
+    gap: 10px;
+}
+.content {
+    margin-right: auto;
+    margin-left: auto;
+    width: 75%;
+    margin:9px;
+}
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: sans-serif;
+    margin: 0px;
+}
+.side-by-side {
+    display: flex;
+    gap: 25px;
+}
