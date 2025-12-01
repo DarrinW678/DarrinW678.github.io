@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+img {
+    width: 100%;
+    object-fit: cover;
+}
+#teams img {
+    width: 200px;
+    margin:20px;
+    
+}
+#teams h1 {
+    align-items: center;
+    justify-content: right;
+    margin: 20px 5px;
+    text-align: center;
+}
+.single-column {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 500px;
+    max-width: 900px;
+    background-color: rgb(172, 166, 178);
+}
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+#heading {
+text-align: center;
+}
+#heading h1 {
+    font-size: 50px;
+}
+#teams h3 {
+    text-align: center;
+}
+#teams h5 {
+    text-align: center;
+}
