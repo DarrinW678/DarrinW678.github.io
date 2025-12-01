@@ -7,8 +7,12 @@ img {
 }
 #teams img {
     width: 200px;
-    margin:20px;
+    margin:90px 20px;
     padding: 15px;
+    display:inline-block;
+    
+    
+
     
 }
 #teams h1 {
