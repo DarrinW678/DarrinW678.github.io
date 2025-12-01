@@ -42,7 +42,7 @@ img {
     object-fit: cover;
 }
 .two-col {
-    display: flex
+    display: flex;
 }
 .product-info {
     padding: 50px;
