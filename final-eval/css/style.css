@@ -8,6 +8,7 @@ img {
 #teams img {
     width: 200px;
     margin:20px;
+    padding: 15px;
     
 }
 #teams h1 {
@@ -39,4 +40,26 @@ text-align: center;
 }
 #teams h5 {
     text-align: center;
+}
+#section-1 .btn {
+    border-radius: 10px;
+    text-decoration: none;
+    border: 10px solid red;
+    color: black;
+    background-color: red;
+    display: block;
+    text-align: center;
+    padding: 5px;
+    margin: 15px;
+}
+#section-2 .btn-1 {
+    border-radius: 10px;
+    text-decoration: none;
+    border:10px solid red ;
+    color: black;
+    background-color: red;
+    display: block;
+    text-align: center;
+    padding: 5px;
+    margin: 15px;
 }
